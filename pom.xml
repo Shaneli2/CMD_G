@@ -21,6 +21,8 @@
     </properties>
 
     <dependencies>
+	
+	<!-- for git testing -->
 
         <!--springboot 启动器 -->
         <dependency>
